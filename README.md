@@ -15,7 +15,7 @@ We seek to empower developers to code, grow, connect, and enjoy the journey.
 ## How can I join this community ? 🚀🔥
 
 - Register for our future CodeJams [Here](https://lu.ma/s3qzobux)
-- Follow Celo Kenya on Twitter/X [Here](https://x.com/celonigeria?s=21&t=GcgWBsAbcIe78S7wMmleBg)
+- Follow Celo Nigeria on Twitter/X [Here](https://x.com/celonigeria?s=21&t=GcgWBsAbcIe78S7wMmleBg)
 - Follow Celo Nigeria Telegram [Here](https://t.me/celonigeriadevelopers)
 - Follow the Celo Africa DAO Community on Twitter/X  [Here](https://twitter.com/CeloAfricaDao)
 - Join our Discussion Forum  [Here](https://forum.celo.org/)
