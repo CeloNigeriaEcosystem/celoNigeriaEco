@@ -8,8 +8,8 @@ Celo is a blockchain platform that focuses on making decentralized financial sys
 
  <img align="left" width="100" height="100" alt="Celo Logo" src="https://avatars.githubusercontent.com/u/109409532?s=400&u=e246906b220f7e7a3a3bc3dc5f62fd6d30392000&v=4">
 
-Celo Nigeria  is an Initiative under the Celo Africa DAO, a branch of the wider Celo community, focusing on fostering Web3 adoption and development in Kenya and empowering local communities to lead local growth.
-Celo Kenya Community fosters innovation and expertise in the ever-evolving landscape of technology through a variety of events, including CodeJams, University meet-ups, Hackathons, Developer office hours, Study groups and Fireside chats.
+Celo Nigeria  is an Initiative under the Celo Africa DAO, a branch of the wider Celo community, focusing on fostering Web3 adoption and development in Nigeria and empowering local communities to lead local growth.
+Celo Nigeria Community fosters innovation and expertise in the ever-evolving landscape of technology through a variety of events, including CodeJams, University meet-ups, Hackathons, Developer office hours, Study groups and Fireside chats.
 We seek to empower developers to code, grow, connect, and enjoy the journey.
 
 ## How can I join this community ? 🚀🔥
